@@ -20,3 +20,5 @@ do
   echo "The element with atomic number $atomic_number is $name ($symbol). It's a $type, with a mass of $atomic_mass amu. $name has a melting point of $melting_point_celsius celsius and a boiling point of $boiling_point_celsius celsius."
 done
 fi
+
+# drop the properties column
