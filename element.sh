@@ -21,4 +21,3 @@ do
 done
 fi
 
-# drop the properties column
